@@ -8,9 +8,16 @@ non_fic = []
 book = input("What is the name of the book?\n")
 fic = input("Is it fiction or non-fiction? Pick F for fiction and NF for nonfiction.\n")
 
-if fic == "F":
-    fiction=fiction.append(book)
+while fic == "F" or fic == "NF":
+  if fic == "F":
+    fiction.append(book)
     print(fiction)
-else:
-    non_fic = non_fic.append(book)
+  elif fic == "NF":
+    non_fic.append(book)
     print(non_fic)
+  else:
+    print("Please enter F or NF")
+  book = input("What is the name of the book?")
+  fic = input("Is it fiction or non-fiction? Pick F for fiction and NF for nonfiction.")
+else:
+    print("Your library has been successfully sorted!")
