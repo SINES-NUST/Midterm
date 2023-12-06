@@ -1,0 +1,15 @@
+#two variables (fiction and non-fiction)
+input_list=[fiction, non-fuction]
+def List_1(fiction):
+    Keywords = (keywords in name of fiction)
+    if contains Keywords:
+        print(f"this {keyword/name} book is fiction")
+    else:
+        print(f"this {keyword/name} book is non-fiction")
+    return List_1
+List_1=["Books that are fiction"]
+def List2():
+    input_list-List_1
+    return List2
+#list2 contains non-fictious books
+    

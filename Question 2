@@ -1,0 +1,9 @@
+
+        def employees_with_low_sales(name, sales, amount, target):
+    for avg in sales:
+        print(avg)
+        return avg
+    if sales < avg:
+        print(f"{name} has less than avg sales")
+    else:
+        return()
