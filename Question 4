@@ -1,0 +1,15 @@
+#part1
+def GC_content(DNA_Sequences):
+    for GC_conetnt:
+        GC_content  = no. of G or C / total no. of nucleotides*100
+    return GC_content
+
+#part2
+def longest_sequence(List_of _sequences):
+    for 'i' in List_of_sequences (max_len):
+        print(i)
+#i is the variable for longest sequence in the list
+def longest_sequence(List_of_sequences):
+     List_of_sequences.sort(lengthwise)
+     print[0]
+     

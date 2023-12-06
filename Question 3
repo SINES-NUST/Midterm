@@ -1,0 +1,18 @@
+#first we define variables
+#then look for certain varaibles in  input list
+#using variables i, j and k for food, transport and enteratinment
+
+def expenses(food, transport, Entertainment):
+    #iterate through the list of food, transport and entertainment
+    for 'i' in expenses:
+        print (i)
+        return()
+    for 'j' in expenses:
+        print(j)
+        #j contains variable, expenses of transport
+        for 'k' in expenses:
+            print(k)
+    return()
+Food (i)= print("the expenses of food:", 'i')
+Transport = print("the expenses of transport:", 'j')
+Entertainment= print("the expenses of entertainment:", 'k')
