@@ -11,6 +11,6 @@ Define a function longest sequence
 get values for the functon longest sequence from the percentage of sequence of the gc Content
 set values for the function longest sequence
 if the sequence is greater than 30
-    dispalys longest sequence
+    displays longest sequence
 else
     display it is not a longest sequence
