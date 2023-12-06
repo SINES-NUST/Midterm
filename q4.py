@@ -13,3 +13,14 @@ function total_GC (total_GC_cpunt):
     write total_GC_count
 #function call
 total_GC(total_GC_count)
+
+#part two of the question
+
+set seq1_count to 0
+set seq2_count to 0
+seq1_count= seq1.count() #first DNA seq count
+seq2_count= seq2.count() #second DNA seq count
+if seq1_count > seq2_count:
+    write ("longest DNA sequence",seq1_count)
+
+#can itterate through a loop to find the longest DNA sequence
