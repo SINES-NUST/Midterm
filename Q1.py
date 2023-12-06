@@ -1,8 +1,8 @@
 library is a list
 SET two empty lists name fiction and non_fiction
-SORT the library list
-    FOR each book in library
-        IF book is fiction
-            ADD book to fiction list
+SORT the library 
+    FOR items  in library
+        IF item are/is equal to fiction
+            ADD in  fiction 
         ELSE
-            ADD book to non_fiction list
+            ADD in non_fiction 
