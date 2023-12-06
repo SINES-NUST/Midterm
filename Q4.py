@@ -24,7 +24,7 @@ If sequence 3 > max
 set sequence 3 as max
 If sequence 4 > max
 set sequence 4 as max
-If sequence 5 > max
+If sequence 5 > max 
 set sequence 5 as max
 Write 'The max is'
 Display 'max'
