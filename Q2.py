@@ -14,7 +14,7 @@ def lower_averageemp(Employee_data):
         #checking the employees whose sales are below average
         if sales<average:
             then BA_sales = ['sales']
-            BAEmp_Nmaes = ['emp_name'
+            BAEmp_Nmaes = ['emp_name']
             #if there are multiple employees add them to the list]
             add emp_name to BAEmp_Names
 print ("BAEmp_names")
