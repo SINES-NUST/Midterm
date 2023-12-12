@@ -1,0 +1,20 @@
+
+
+#pseudo code for DNA sequence
+List GC_content
+GC_content = [G and C]
+
+#Step 1: Calculate %age of guanine
+OUTPUT = %age *number
+
+#Step2 : Return the result
+RETURN result
+
+Step3 : Calculate %age of cytosine
+OUTPUT = %age * cytosine
+
+Step4:  Calculate/ Return the result
+RETURN result
+D
+
+
