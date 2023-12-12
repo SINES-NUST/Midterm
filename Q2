@@ -1,0 +1,16 @@
+#pseudocode of list of expenses
+expenses= [ food 
+transport
+entertainment
+]
+
+for categories in list
+OUTPUT (food)
+
+#Pseudocode for Transport category
+for transport in expenses category
+ OUTPUT (transport, next loop)
+
+ for expenses category
+ OUTPUT(category)
+
